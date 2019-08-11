@@ -1,4 +1,4 @@
 # md-gif
 
 
-![alt text](img/asset.gif)
+![asset.gif](dir/asset.gif)
